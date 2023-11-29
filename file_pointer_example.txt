@@ -1,0 +1,1 @@
+New Data: sample text. Writing to a file using C++.
